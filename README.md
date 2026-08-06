@@ -52,7 +52,6 @@ https://python-web-app--KumarPralhadd.replit.app
 
 ---
 
-```markdown
 ## ⭐ Project Highlights
 
 - Interactive dashboard
