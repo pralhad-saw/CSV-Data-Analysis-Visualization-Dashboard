@@ -134,6 +134,19 @@ This project was developed to simplify exploratory data analysis by providing an
 
 ---
 
+
+## ▶️ Run Locally
+
+1. Clone the repository.
+2. Install dependencies.
+3. Run:
+
+```bash
+streamlit run app.py
+
+---
+
+
 ## 👨‍💻 Author
 
 **Pralhad Saw**
