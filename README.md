@@ -124,6 +124,16 @@ This project was developed to simplify exploratory data analysis by providing an
 
 ---
 
+## 🚀 Future Improvements
+
+- Add machine learning model integration.
+- Support Excel (.xlsx) files.
+- Enable dashboard sharing.
+- Add advanced filtering and search.
+- Generate downloadable PDF reports.
+
+---
+
 ## 👨‍💻 Author
 
 **Pralhad Saw**
