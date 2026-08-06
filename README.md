@@ -143,6 +143,7 @@ This project was developed to simplify exploratory data analysis by providing an
 
 ```bash
 streamlit run app.py
+```
 
 ---
 
