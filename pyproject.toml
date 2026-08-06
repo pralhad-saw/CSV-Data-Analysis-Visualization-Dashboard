@@ -1,1 +1,12 @@
-Interactive CSV Data Analysis & Visualization Dashboard built with Python and Streamlit.
+[project]
+name = "repl-nix-workspace"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.11"
+dependencies = [
+    "numpy>=2.3.2",
+    "pandas>=2.3.2",
+    "plotly>=6.3.0",
+    "seaborn>=0.13.2",
+    "streamlit>=1.49.1",
+]
