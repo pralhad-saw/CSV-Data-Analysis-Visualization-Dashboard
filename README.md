@@ -52,6 +52,17 @@ https://python-web-app--KumarPralhadd.replit.app
 
 ---
 
+```markdown
+## ⭐ Project Highlights
+
+- Interactive dashboard
+- Multiple chart types
+- Statistical analysis
+- CSV filtering
+- Export functionality
+
+---
+
 ## 📂 Project Structure
 
 ```
