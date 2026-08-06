@@ -1,17 +1,17 @@
 
-#CSV Data Analysis & Visualization Tool
+CSV Data Analysis & Visualization Tool
 
-#Overview
+Overview
 
 A Streamlit-based web application for interactive CSV data analysis and visualization. The tool allows users to upload CSV files and perform exploratory data analysis through an intuitive web interface with various chart types and statistical summaries.
 
-#User Preferences
+User Preferences
 
 Preferred communication style: Simple, everyday language.
 
-#System Architecture
+System Architecture
 
-#Frontend Architecture
+Frontend Architecture
 
 Framework: Streamlit web framework for rapid prototyping and data app development
 
@@ -21,7 +21,7 @@ State Management: Streamlit session state to persist data and filtered datasets 
 
 UI Components: Native Streamlit components for file upload, data display, and interactive controls
 
-#Data Processing Pipeline
+Data Processing Pipeline
 
 File Handling: Multi-encoding CSV reader with fallback support (utf-8, latin-1, iso-8859-1, cp1252)
 
@@ -41,7 +41,7 @@ Secondary Viz: Seaborn integration for additional statistical plotting capabilit
 
 Export Functionality: Built-in chart export and data download features
 
-#Statistical Analysis
+Statistical Analysis
 
 Data Types: Automatic detection and handling of numerical vs categorical data
 
@@ -49,9 +49,9 @@ Statistics Engine: NumPy and pandas for mathematical computations
 
 Summary Statistics: Basic descriptive statistics calculation per column type
 
-#External Dependencies
+External Dependencies
 
-#Core Libraries
+Core Libraries
 
 streamlit: Web application framework and UI components
 
@@ -63,13 +63,13 @@ numpy: Numerical computing and mathematical operations
 
 seaborn: Statistical data visualization
 
-#Python Standard Library
+Python Standard Library
 
 io: File I/O operations for data handling
 
 datetime: Date and time operations for data processing
 
-#Browser Dependencies
+Browser Dependencies
 
 Modern web browser with JavaScript support for Plotly interactive features
 
